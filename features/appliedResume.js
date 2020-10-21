@@ -25,7 +25,7 @@ module.exports = function (controller) {
       },
       nassauCommunityCollege: {
         name: "Nassau Community College",
-        degree: "AS - Information Technology",
+        degree: "Information Technology",
         timeline: "September 2017 - December 2019",
       },
     },
@@ -47,20 +47,20 @@ module.exports = function (controller) {
         name: "Littok",
         technologies: "Ruby on Rails in the backend, React/Redux in the Front",
         link: "http://www.littok.com/#/",
-        pic: "https://i.imgur.com/4Ns8Sui.jpg",
+        pic: "https://i.imgur.com/6ldmTXK.png",
       },
       project2: {
         name: "Find My Pawrents",
         technologies:
           "Node/MongoDB/Express in the backend, React/Redux in the Front",
         link: "http://www.findmypawrents.com/#/",
-        pic: "https://i.imgur.com/4Ns8Sui.jpg",
+        pic: "https://i.imgur.com/wR6RgUn.jpg",
       },
       project3: {
         name: "Visual Journey",
         technologies: "JavaScript and Three.js",
         link: "http://visualjourney.io/",
-        pic: "https://i.imgur.com/4Ns8Sui.jpg",
+        pic: "https://i.imgur.com/9aX1Ep0.jpg",
       },
     },
   };
